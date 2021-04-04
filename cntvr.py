@@ -12,5 +12,4 @@ adad sadas dsad
 sad s
 """
 
-#print(re.search("(?P<url>https?://[^\s]+)", myString).group("url"))
 print(re.sub(r'(https?:\/\/(?!.*:\/\/)\S+)', r'[[\1]]',m),file=open("header.md", "a"))
