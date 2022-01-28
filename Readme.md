@@ -1,5 +1,2 @@
-This repository is created to convert any link from any text to make a markdown link with the help of regex and python
+This reposety contains various regex pattern for solving verious problem 
 
-example :
-
-https://some-url.domain >>>>>>>>> [[https://some-url.domain ]]
